@@ -20,7 +20,6 @@ I'm a **Full Stack Developer** from India who loves crafting clean, performant w
 - 🌱 &nbsp;Always learning — right now diving deeper into the React / Node ecosystem
 - 🤝 &nbsp;Open to **job & internship opportunities**
 - 💡 &nbsp;Love contributing to **open source**
-- 📫 &nbsp;Reach me at → [linkedin.com/in/harshit-lohar-97a653257](https://in.linkedin.com/in/harshit-lohar-97a653257)
 
 ---
 
@@ -51,29 +50,35 @@ I'm a **Full Stack Developer** from India who loves crafting clean, performant w
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I'm About
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshit77l&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit77l&layout=compact&theme=default&hide_border=true&title_color=0ea5e9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit77l&theme=default&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
-
-</div>
+```text
+🏗️  I build projects end-to-end — idea → design → code → deploy
+🎯  Focus on writing clean, readable, maintainable code
+🌐  Comfortable across the full stack: UI to API to database
+🤲  Believer in open source — learning and giving back
+📦  I ship in batches, but I ship complete products
+```
 
 ---
 
-### 🤝 Let's Connect
+### 📬 Let's Connect & Work Together
 
-<a href="https://in.linkedin.com/in/harshit-lohar-97a653257">
-  <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Lohar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-%20%20Connect%20with%20me%20on%20LinkedIn%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harshit-lohar-97a653257)
+
+<br/>
+
+> 💼 **Actively looking for Full Stack / Frontend / Backend roles & internships**
+>
+> Got an interesting opportunity or just want to talk tech? Hit the button above — I'd love to connect.
+
+<br/>
+
+</div>
 
 ---
 
